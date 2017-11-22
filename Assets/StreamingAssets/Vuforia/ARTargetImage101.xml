@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="in-bao-li-xi-baby-star" size="3.000000 3.420000" />
+    <ImageTarget name="in-bao-li-xi-gia-re" size="3.000000 3.000000" />
+    <ImageTarget name="baolixi4_pwmh" size="3.000000 6.000000" />
+    <ImageTarget name="in-name-card-in-to-roi-in-name-card-gia-re-bao-li-xi-tet-10" size="3.000000 3.593407" />
+    <ImageTarget name="blx2019" size="3.000000 3.442672" />
+    <ImageTarget name="blx2018" size="4.000000 4.590230" />
+    <ImageTarget name="Halloween-Scary-Pumpkin-Carving-Patterns" size="150.000000 150.241928" />
+    <ImageTarget name="pattern1" size="200.000000 200.000000" />
+    <ImageTarget name="whales_pattern" size="30.000000 30.000000" />
+  </Tracking>
+</QCARConfig>
